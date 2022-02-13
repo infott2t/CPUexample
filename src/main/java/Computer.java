@@ -16,5 +16,6 @@ public class Computer {
         Operater opt = new Operater("Hello.");
         a. ... //오퍼레이터와 통신, 일을 할 것인지 물어보기
         //한다면... com1()을 줌. 어떤 일에 사용된다는 예로...
+        //켜진 상태이기 때문에, Computer()를 줘야할 것 같다.
     }
 }
